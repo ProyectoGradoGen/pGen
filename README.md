@@ -1,5 +1,8 @@
 # pGen
-Proyecto de Grado FING UdelaR Junio 2018: Predicción de género para usuarios de Twitter. 
+Proyecto de Grado FING UdelaR: Predicción de género para usuarios de Twitter. 
+
+Junio 2018
+
 Jimena Rodríguez Pérez, Jimena Díaz Iglesias.
 
 
